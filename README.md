@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hey, I'm Albert 👋
 
+CS student @ Politehnica Bucharest (ACS).
+
+- 💻 C/C++, Python, Java, Bash, SQL
+- 🛠️ Linux, Git, Flask, Docker
+- ⚡ Interesat de backend, automatizări și hardware/embedded
+
+📫 [LinkedIn](https://linkedin.com/in/albert-bobic-594b333a1)
 <!--
 **albert9994/albert9994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
