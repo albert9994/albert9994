@@ -2,9 +2,8 @@
 
 CS student @ Politehnica Bucharest (ACS).
 
-- 💻 C/C++, Python, Java, Bash, SQL
-- 🛠️ Linux, Git, Flask, Docker
-- ⚡ Interesat de backend, automatizări și hardware/embedded
+- 💻 C/C++, Python, Bash
+- 🛠️ Linux, Git
 
 📫 [LinkedIn](https://linkedin.com/in/albert-bobic-594b333a1)
 <!--
